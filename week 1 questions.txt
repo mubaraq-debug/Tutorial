@@ -1,3 +1,6 @@
+clone the repo using------ git clone -b dev git@github.com:mubaraq-debug/Tutorial.git
+
+
 1. Variables and Data Types:
    - Declare a variable `name` and assign it a string value.
    - Create variables `num1` and `num2`, assign numerical values to them, and calculate their sum.
