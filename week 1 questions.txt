@@ -1,0 +1,19 @@
+1. Variables and Data Types:
+   - Declare a variable `name` and assign it a string value.
+   - Create variables `num1` and `num2`, assign numerical values to them, and calculate their sum.
+   - Define a variable `isTrue` and assign it a boolean value.
+
+2. Conditional Statements:
+   - Write an if statement that checks if a variable `age` is greater than or equal to 18.
+   - Implement an if-else statement to determine whether a given number is positive, negative, or zero.
+   - Use else if to categorize a student's grade (A, B, C, D, or F) based on their score.
+
+3. Logical Operators:
+   - Write a logical expression using `&&` to check if a number is both greater than 10 and less than 20.
+   - Implement a condition using `||` to check if a variable `color` is either "red" or "blue".
+   - Use the `!` operator to negate a boolean variable `isLogged`.
+
+4. Loops:
+   - Write a for loop to print numbers from 1 to 10.
+   - Implement a while loop to calculate the factorial of a given number.
+   - Use a do-while loop to repeatedly prompt the user for a password until it matches a predefined value.
